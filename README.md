@@ -19,7 +19,7 @@ JDK (Java Development Kit) versão 8 ou superior
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/estruturas-de-dados-java.git
+   git clone https://github.com/Arroyda/Estrutura_Dados.git
    ```
 2. Abra a pasta do projeto na sua IDE de preferência.
 3. Navegue pelos exemplos e implementações disponíveis.
@@ -54,5 +54,3 @@ Aqui estão alguns exemplos do que você pode encontrar neste repositório:
 ## ✒️ Autor
 
 - **Vitor Assunção Arruda** - *Desenvolvimento e Manutenção* - [LinkedIn](https://www.linkedin.com/in/arruda-vitor/)
-
-Sinta-se à vontade para contribuir com mais exemplos, melhorias ou correções. Bons estudos!
